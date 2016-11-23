@@ -1,0 +1,17 @@
+{
+  "name": "cordova-accelerometer",
+  "version": "1.0",
+  "title": "Cordova Accelerometer",
+  "description": "Simple app to get started using the accelerometers on the mobile device",
+  "tags": [],
+  "libraries": [
+    {
+      "name": "jquery",
+      "version": "2.1.1"
+    }
+  ],
+  "index-file": "index.html",
+  "uuid": "3ffac9d3-4b96-4835-af0c-baec322d15dc",
+  "icon": "app-icon.png",
+  "doc-url": "https://evothings.com/2.1/doc/examples/cordova-accelerometer.html"
+}
